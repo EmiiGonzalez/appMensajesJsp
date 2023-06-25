@@ -1,0 +1,6 @@
+com\app\mensajes\Conexion.class
+com\app\mensajes\resources\JakartaEE10Resource.class
+com\app\mensajes\JakartaRestConfiguration.class
+com\app\mensajes\Main.class
+com\app\mensajes\Mensaje.class
+com\app\mensajes\MensajeDao.class
